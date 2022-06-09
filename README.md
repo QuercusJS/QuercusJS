@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">A passionate Fullstack web developer from Spain</h3>
+<h3 align="center"![cat-vibe](https://user-images.githubusercontent.com/70753257/172842975-aba0f60c-f3dc-40c3-85ec-7c975a841d69.gif)
+>A passionate Fullstack web developer from Spain</h3>
 
 - 📫 How to reach me **indexado05@gmail.com**
 
