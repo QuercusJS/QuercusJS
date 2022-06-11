@@ -2,6 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuercusJS&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuercusJS&theme=tokyonight)
 <h1 align="center">Hi 👋, I'm Albert</h1>
+<img src="https://github.com/QuercusJS/QuercusJS/blob/main/bongo-cat-explode-bongo-cat.gif" alt="" width="500" height="600">
 <h3 align="center">A passionate Fullstack developer from Spain ;)</h3>
 
 - 🔭 I’m currently working on **ticketchange**
