@@ -1,6 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuercusJS&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuercusJS&theme=tokyonight)
+<img src="https://github.com/QuercusJS/QuercusJS/blob/main/Banner%20de%20LinkedIn%20Respuesta%20Global%20Ingeniera%20Amarillo%20y%20Negro.png">
 <h1 align="center">Hi 👋, I'm Albert</h1>
 <img src="https://github.com/QuercusJS/QuercusJS/blob/main/bongo-cat-explode-bongo-cat.gif" alt="" width="500" height="600">
 <h3 align="center">A passionate Fullstack developer from Spain ;)</h3>
