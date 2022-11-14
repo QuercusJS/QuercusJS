@@ -1,5 +1,5 @@
 <h1 align="center">Wassup 🤙</h1>
-<br></br>
+
 ![Fondo-de-Vídeo-Gris-Verde-Negro-Moderno-Garabatos-Color-y-Estilo](https://user-images.githubusercontent.com/70753257/201649997-1ab66eea-2377-4974-b587-d03501c1a66a.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuercusJS&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuercusJS&theme=tokyonight)
