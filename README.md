@@ -1,6 +1,5 @@
 <h1 align="center">Wassup 🤙</h1>
 ![ezgif-3-3e61393714](https://user-images.githubusercontent.com/70753257/201653244-4e0519d0-c9e4-4726-bb9d-469d3059ff27.gif)
-![Fondo-de-Vídeo-Gris-Verde-Negro-Moderno-Garabatos-Color-y-Estilo](https://user-images.githubusercontent.com/70753257/201649997-1ab66eea-2377-4974-b587-d03501c1a66a.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuercusJS&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuercusJS&theme=tokyonight)
 <img src="https://github.com/QuercusJS/QuercusJS/blob/main/Banner%20de%20LinkedIn%20Respuesta%20Global%20Ingeniera%20Amarillo%20y%20Negro.png">
