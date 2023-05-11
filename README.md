@@ -1,5 +1,4 @@
 <h1 align="center">Wassup 🤙</h1>
-![ezgif-3-3e61393714](https://user-images.githubusercontent.com/70753257/201653244-4e0519d0-c9e4-4726-bb9d-469d3059ff27.gif)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuercusJS&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuercusJS&theme=tokyonight)
